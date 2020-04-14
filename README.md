@@ -2,7 +2,7 @@
 The following is the project for CMU's OOP class - this repo will be eventually merged with the classwork file at a later date.
 
 # Video
-Zoom link:
+Video link: https://youtu.be/LQovAGkkTLo
 
 # Powerpoint
 Found both in this folder as an availible download, but also online here:
